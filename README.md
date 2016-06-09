@@ -1,3 +1,4 @@
+
 Microsoft Visual Studio Code 中文手册
 ===============
 
@@ -57,6 +58,7 @@ Microsoft Visual Studio Code 中文手册
 
 * OverView+Jeason
 * The Basics+Swizard
+* Editing Evolved+heshenghuan
 * 你正在翻译的文章+你的名字
 
 ## 项目翻译目录
@@ -86,13 +88,13 @@ Microsoft Visual Studio Code 中文手册
 * LANGUAGES
   * [Overview](https://code.visualstudio.com/docs/languages/overview)
   * [JavaScript](https://code.visualstudio.com/docs/languages/javascript)
-  * [C#](https://code.visualstudio.com/docs/languages/csharp)
+  * ~~[C#](https://code.visualstudio.com/docs/languages/csharp)~~
   * [C++](https://code.visualstudio.com/docs/languages/cpp)
   * [JSON](https://code.visualstudio.com/docs/languages/json)
-  * [HTML](https://code.visualstudio.com/docs/languages/html)
+  * ~~[HTML](https://code.visualstudio.com/docs/languages/html)~~
   * [PHP](https://code.visualstudio.com/docs/languages/php)
   * [Markdown](https://code.visualstudio.com/docs/languages/markdown)
-  * [TypeScript](https://code.visualstudio.com/docs/languages/typescript)
+  * ~~[TypeScript](https://code.visualstudio.com/docs/languages/typescript)~~
   * [CSS, Sass and Less](https://code.visualstudio.com/docs/languages/css)
   * [Dockerfile](https://code.visualstudio.com/docs/languages/dockerfile)
 
@@ -129,13 +131,17 @@ Microsoft Visual Studio Code 中文手册
   * [Samples](https://code.visualstudio.com/docs/tools/samples)
 
 （翻译完成的，请使用删除线将对应划去,像下面这样）
-	* ~~[Overview](https://code.visualstudio.com/docs)~~
+
+    *  ~~[Overview](https://code.visualstudio.com/docs)~~
 
 ## 贡献者（按参与时间排序）
 
 - [Jeason](http://jeasonstudio.github.io/)
 - [swizard](http://swizardlv.github.io/)
 - [heshenghuan](http://heshenghuan.github.io/)
+- [Alexi.F](http://alexifeng.com/)
+- [jinyutao](https://github.com/jinyutao)
+- [yuxuefeng](https://github.com/twem007)
 - 你的名字
 
 （Fork 之后自行添加到最后）
